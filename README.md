@@ -1,7 +1,8 @@
 ### example: 
 ```bash
-export FIREWORKS_API_KEY="<apikey>"
+export FIREWORKS_API_KEY="<your-apikey>"
 ```
+### run script:
 ```python
 python3 app.py
 ```
