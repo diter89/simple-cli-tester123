@@ -1,4 +1,6 @@
 ### Get free apikey: https://fireworks.ai/
+### Get free proxylis: https://www.webshare.io/ (Optional)
+
 ### Example: 
 ```bash
 export FIREWORKS_API_KEY="<your-apikey>"
