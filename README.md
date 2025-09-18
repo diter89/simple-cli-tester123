@@ -1,4 +1,3 @@
-### Get free apikey: https://fireworks.ai/
 ### Get free proxylis: https://www.webshare.io/ (Optional)
 
 ### Example: 
