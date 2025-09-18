@@ -1,6 +1,9 @@
 ### example: 
 ```
 export FIREWORKS_API_KEY="<apikey>"
+---------------------------------------
+run:
+
 python3 app.py
 ```
 ### How to Add a New Persona ?
