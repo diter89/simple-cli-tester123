@@ -2,6 +2,10 @@
 ```bash
 export FIREWORKS_API_KEY="<apikey>"
 ```
+```python
+python3 app.py
+```
+
 ### How to Add a New Persona ?
 1. **Create a File in `pustakapersona/`**: Copy `personareadle.py` as a template. The main function must use `yield` for streaming.
 2. **Edit Router in `core/advanced_router.py`**:
