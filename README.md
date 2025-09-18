@@ -1,4 +1,5 @@
 ### example: 
+### get free apikey: https://fireworks.ai/
 ```bash
 export FIREWORKS_API_KEY="<your-apikey>"
 ```
