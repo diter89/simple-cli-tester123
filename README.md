@@ -5,7 +5,7 @@ python3 app.py
 ```
 ### How to Add a New Persona ?
 1. **Create a File in `pustakapersona/`**: Copy `personareadle.py` as a template. The main function must use `yield` for streaming.
-2. **Edit Router in `core/advanced_router_full.py`**:
+2. **Edit Router in `core/advanced_router.py`**:
    * Add new `INTENT` to the LLM prompt.
    * Add to `VALID_INTENTS`.
    * Add `INTENT` to `tool_name` mapping in `tool_map`.
