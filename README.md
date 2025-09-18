@@ -1,5 +1,5 @@
-### example: 
-### get free apikey: https://fireworks.ai/
+### Get free apikey: https://fireworks.ai/
+### Example: 
 ```bash
 export FIREWORKS_API_KEY="<your-apikey>"
 ```
