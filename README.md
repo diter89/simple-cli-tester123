@@ -1,4 +1,5 @@
 ### Get free proxylis: https://www.webshare.io/ (Optional)
+### Get free apikey: https://app.fireworks.ai/
 
 ### Example: 
 ```bash
