@@ -19,3 +19,6 @@ python3 app.py
 3. **Edit in `app.py`**:
    * `import` the new function from the persona file.
    * Add the new `tool_name` to the `generator_map_stream` dictionary and link it to the imported function.
+
+### :::
+<img width="1356" height="686" alt="Screenshot from 2025-09-22 07-05-24" src="https://github.com/user-attachments/assets/0f3772df-5d54-4aa2-9ecf-1f6ae97712f5" />
